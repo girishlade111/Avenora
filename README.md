@@ -357,4 +357,6 @@ No license has been specified yet — all rights reserved by default. Feel open 
 
 <p align="center">
   <sub>Built with <a href="https://nextjs.org/">Next.js</a>, <a href="https://tailwindcss.com/">Tailwind CSS</a> and <a href="https://ui.shadcn.com/">shadcn/ui</a></sub>
+  <br/>
+  <sub>Built by <strong>Girish Lade</strong> — <a href="https://ladestack.in">ladestack.in</a></sub>
 </p>
